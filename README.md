@@ -28,7 +28,7 @@ This project showcases a robust and scalable AWS-based web architecture, utilizi
 - Amazon RDS (Multi-AZ) for reliable and consistent relational data storage
 
 ## 🖼️ Architecture Overview
-
+![Architecture Diagram](diagram.png)
 **Figure 1:** A bird’s-eye view of a multi-AZ AWS web application environment, designed for high availability and failover protection.
 
 ## 🔍 Service Components
